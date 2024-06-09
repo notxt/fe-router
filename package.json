@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "@tsconfig/strictest": "^2.0.5",
+    "typescript": "^5.4.5"
+  }
+}
